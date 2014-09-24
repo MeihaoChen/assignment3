@@ -1,0 +1,13 @@
+1. The function is defined in the following file:
+File:       /usr/lib/python2.7/posixpath.py
+Definition: os.path.abspath(path)
+Docstring:  Return an absolute path.
+
+2. num = ! ls /etc | wc -l
+232 files in the directory
+
+3. use a = float(num.n) to transfer the string into a float. a**0.5 = 15.23
+
+4. use %timeit to calculate the time. The fastest is x*x, which uses 163 ns on my laptop.
+
+5. use %magic. There are 24 cell magics.
